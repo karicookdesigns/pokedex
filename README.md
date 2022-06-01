@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img alt="Pokedex API" src="https://github.com/karicookdesigns/pokedex/src/images/Pokedex-Mockup.png" />
+  <img alt="Pokedex API" src="https://github.com/karicookdesigns/pokedex/blob/main/src/images/Pokedex-Mockup.png" />
 </h1>
 
 ## :speech_balloon: About
