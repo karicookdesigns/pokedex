@@ -14,7 +14,6 @@ The following programs were used to develop this project:
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [React JS](https://reactjs.org/)
-- [Axios](https://github.com/axios/axios)
 - [Pokedex API](https://pokeapi.co/)
 - [VS Code](https://code.visualstudio.com/) with [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
