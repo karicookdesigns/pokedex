@@ -3,11 +3,11 @@
 </h1>
 
 <h1 align="center">
-  <img alt="Pokedex API" src="https://karicookdesigns.github.io/pokedex/src/images/Pokedex-Mockup.png" />
+  <img alt="Pokedex API" src="https://github.com/karicookdesigns/pokedex/src/images/Pokedex-Mockup.png" />
 </h1>
 
 ## :speech_balloon: About
-This webpage was created to display all Pokemon and their details using a Pokedex API.
+This webpage was created to display all Pokemon and their types using an Pokedex API.
 
 ## :computer: Tools
 The following programs were used to develop this project:
